@@ -1,8 +1,8 @@
 # Malarial-Cell-Classfication
-Malarial Cell Classification. Current work being carried out on this project to use VGG models for image segmentation using the same dataset.
+Malarial Cell Classification. Current work being carried out on this project to use VGG models for image segmentation using the same dataset. <br />
 
-Dataset for this project can be found at: https://lhncbc.nlm.nih.gov/publication/pub9932
-Or at: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+Dataset for this project can be found at: https://lhncbc.nlm.nih.gov/publication/pub9932 <br />
+Or at: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria <br />
 
 Classification done for cells containing malaria parasite.
 Key operations done include image resizing, defining and training of the model with keras layers and plotting the 
